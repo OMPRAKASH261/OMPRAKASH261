@@ -1,7 +1,7 @@
 ## Hi 👋 , I'm Om Prakash<br><br>
 
 # 💫 About Me:
-I'm an aspiring Data Scientist & software engineer with experience in data science, full-stack development, and algorithmic problem solving. <br>My interests include AI/ML, backend development, data analytics, and building scalable applications. <br>I am always learning, improving, and looking for opportunities to apply my skills to meaningful projects.<br><br><br>Currently focusing on:<br>     - Artificial Intelligence & Machine Learning<br>     - Data Science / Software for intership and placements.<br>     - Backend / software engineering skills<br>     - Data Scientist <br>     - Full Stack Developer<br>
+I'm an aspiring Data Scientist & Software engineer with experience in data science, full-stack development, and algorithmic problem solving. <br>My interests include AI/ML, backend development, data analytics, and building scalable applications. <br>I am always learning, improving, and looking for opportunities to apply my skills to meaningful projects.<br><br><br>Currently focusing on:<br>     - Artificial Intelligence & Machine Learning<br>     - Data Science / Software for intership and placements.<br>     - Backend / software engineering skills<br>     - Data Scientist <br>     - Full Stack Developer<br>
 
 
 ## 🌐 Socials:
