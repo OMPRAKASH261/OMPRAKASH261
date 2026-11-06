@@ -1,7 +1,35 @@
-## Hi 👋 , I'm Om Prakash<br><br>
+# Hi, I'm Om Prakash 👋
 
-# 💫 About Me:
-I'm an aspiring Data Scientist & Software engineer with experience in data science, full-stack development, and algorithmic problem solving. <br>My interests include AI/ML, backend development, data analytics, and building scalable applications. <br>I am always learning, improving, and looking for opportunities to apply my skills to meaningful projects.<br><br><br>Currently focusing on:<br>     - Artificial Intelligence & Machine Learning<br>     - Data Science / Software for intership and placements.<br>     - Backend / software engineering skills<br>     - Data Scientist <br>     - Full Stack Developer<br>
+I’m an aspiring **Data Scientist and Software Engineer** with hands-on experience in data science, full-stack development, and algorithmic problem solving.
+
+I enjoy building scalable, data-driven applications and applying machine learning to solve real-world problems. My work spans **AI/ML, backend engineering, data analytics, and full-stack development**.
+
+## 🔭 Current Focus
+
+- Artificial Intelligence and Machine Learning
+- Data Science and applied analytics
+- Backend development and system design
+- Full-stack web application development
+- Preparing for internships and software/data science placements
+
+## 🛠️ Technical Skills
+
+- **Programming:** Python, Java, C++, JavaScript
+- **Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+- **Data Engineering & Analytics:** SQL, ETL, data visualization, exploratory data analysis
+- **Backend:** Node.js, Express, REST APIs, authentication, databases
+- **Frontend:** React, HTML, CSS, Tailwind CSS
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Platforms:** Git, GitHub, Docker, Linux, VS Code, Jupyter Notebook
+
+## 💼 What I Work On
+
+- Building end-to-end web applications with clean, maintainable code
+- Developing ML models for classification, regression, and prediction tasks
+- Performing data cleaning, feature engineering, and exploratory analysis
+- Designing RESTful APIs and backend services
+- Solving data structures and algorithms problems for technical interviews
+  
 
 
 ## 🌐 Socials:
